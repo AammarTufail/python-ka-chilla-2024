@@ -1,0 +1,8 @@
+.rpwwt-widget ul { list-style: outside none none; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; }
+.rpwwt-widget ul li { overflow: hidden; margin: 0 0 1.5em; }
+.rpwwt-widget ul li:last-child { margin: 0; }
+.rpwwt-widget .screen-reader-text {border: 0; clip: rect(1px, 1px, 1px, 1px); -webkit-clip-path: inset(50%); clip-path: inset(50%); height: 1px; margin: -1px; overflow: hidden; padding: 0; position: absolute !important; width: 1px; word-wrap: normal !important; word-break: normal; }
+.rpwwt-widget .screen-reader-text:focus {background-color: #f1f1f1; border-radius: 3px; box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6); clip: auto !important; -webkit-clip-path: none; clip-path: none; color: #21759b; display: block; font-size: 0.875rem; font-weight: 700; height: auto; right: 5px; line-height: normal; padding: 15px 23px 14px; text-decoration: none; top: 5px; width: auto; z-index: 100000; }
+.rpwwt-widget ul li img { display: inline; float: left; margin: .3em .75em .75em 0; }
+#rpwwt-recent-posts-widget-with-thumbnails-1 img { width: 75px; height: 75px; }
+#rpwwt-recent-posts-widget-with-thumbnails-2 img { width: 75px; height: 75px; }
