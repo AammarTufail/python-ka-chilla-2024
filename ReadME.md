@@ -38,7 +38,7 @@ contact: info@codanics.com
 ---
 
 ## **Our youtube channel:**
-[![Youtube](./00_resources/posters/02_poster.png)](https://www.youtube.com/watch?v=NrAyNt7EQ4c&list=PL9XvIvvVL50Gtj1fmwUhUW69e0U-TZZaZ&ab_channel=Codanics)
+[![Youtube](./00_resources/posters/01_poster.png)](https://www.youtube.com/watch?v=NrAyNt7EQ4c&list=PL9XvIvvVL50Gtj1fmwUhUW69e0U-TZZaZ&ab_channel=Codanics)
 
 Our Daily Lectures are available on our youtube channel. Please subscribe to our channel and find all lectures on youtube as well. [Here is the link playlist for this course](https://www.youtube.com/watch?v=NrAyNt7EQ4c&list=PL9XvIvvVL50Gtj1fmwUhUW69e0U-TZZaZ&ab_channel=Codanics)
 
