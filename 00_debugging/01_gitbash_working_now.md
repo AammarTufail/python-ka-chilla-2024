@@ -17,6 +17,8 @@ Table of Contents
 
 you may have noticed that we recommend using GitBash as the terminal for the course. This is because it is a lightweight terminal that is easy to use and has a lot of features that make it easy to work with. However, some students have reported that they are having trouble getting GitBash to work with Conda. In this guide, we will show you how to get GitBash working with Conda so that you can use it for the course.
 
+> Here is the complete youtube video for this guide click on this image: [![GitBash in working find with Conda - Complete Guide](../00_resources/posters/03_poster.png)](https://youtu.be/UyVPHNeEka0)
+
 > ## Step 1: Install GitBash
 
 The first step is to install GitBash on your computer. You can download it from the official website [here](https://git-scm.com/downloads). Once you have downloaded the installer, run it and follow the instructions to install GitBash on your computer.
