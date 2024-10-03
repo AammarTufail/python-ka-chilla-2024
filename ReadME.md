@@ -11,6 +11,9 @@ Python ka chilla 2024  You can now register for Python ka chilla 2024 which is s
 > ## **LMS for the Course**
 More details about the course can be found in the following link for Learning Mangement System **`(LMS)`** of the Course with all the video lectures: [Python Ka Chilla 2024](https://codanics.com/courses/python-ka-chilla-2024/)
 
+> ## **Debugging**
+### **GitBash with Conda is not working**
+If you are facing issues with GitBash and Conda, you can follow the following steps to fix the issue by clicking on the following link: [GitBash with Conda](./00_debugging/01_gitbash_working_now.md)
 
 > ## **`Course Instructor:`**
 
