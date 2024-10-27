@@ -1,0 +1,3 @@
+# ignore all pptx files in all directories
+*.pptx
+/05_pandas/06_top_50_commands_pandas.ipynb
