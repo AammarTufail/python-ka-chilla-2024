@@ -2,5 +2,6 @@
 *.pptx
 /05_pandas/07a_missing_values.ipynb
 /05_pandas/07b_impute_missing_values.ipynb
+/09_data_visualization/03_customizing_plots_seaborn_matplotlib.ipynb
 
 
