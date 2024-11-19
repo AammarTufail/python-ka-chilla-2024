@@ -1,0 +1,67 @@
+code,label,date_update,note_update,release_current,state_current,year_current,release_next,state_next,year_next
+QCL,Crops and livestock products,2024-10-07,minor revision,2023-12-23 / 2024-10-07,final,2022,2024-12,final,2023
+QI,Production Indices,2024-03-13,,2024-03-13,final,2022,2024-12,final,2023
+QV,Value of Agricultural Production,2024-03-13,,2024-03-13,final,2022,2024-12,final,2023
+FS,Suite of Food Security Indicators,2024-07-25,minor revision,2024-07-24 / 2024-07-25,final,2023,2025-07,final,2024
+FBS,Food Balances (2010-),2024-07-19,,2024-07-19,final,2022,2025-07,final,2023
+SCL,Supply Utilization Accounts (2010-),2024-07-19,,2024-07-19,final,2022,2025-07,final,2023
+CB,Commodity Balances (non-food) (2010-),2024-07-19,,2024-07-19,final,2022,2025-07,final,2023
+FBSH,"Food Balances (-2013, old methodology and population)",2023-03-10,minor revision,2016-12-20 / 2023-03-10,final,2013,,,
+CBH,"Commodity Balances (non-food) (-2013, old methodology)",2021-12-03,minor revision,2016-12-20 / 2021-12-03,final,2013,,final,
+TCL,Crops and livestock products,2023-12-21,,2023-12-21,final,2022,2024-12,final,2023
+TM,Detailed trade matrix,2023-12-21,,2023-12-21,final,2022,2024-12,final,2023
+TI,Trade Indices,2023-12-21,,2023-12-21,final,2022,2024-12,final,2023
+PP,Producer Prices,2024-01-09,,2024-01-09,final,2023,2024-12,final,2024
+CP,Consumer Price Indices,2024-11-11,,2024-11-11,preliminary,2024,2025-01,preliminary,2024
+PD,Deflators,2024-06-12,,2024-06-12,preliminary,2023,2024-10,final,2023
+PE,Exchange rates,2024-11-05,,2024-11-05,final,2024,2025-01,final,2024
+CAHD,Cost and Affordability of a Healthy Diet (CoAHD),2024-07-24,,2024-07-24,final,2022,2025-07,final,2023
+SUA,Availability (based on supply utilization accounts),2024-08-26,minor revision,2024-02-01 / 2024-08-26,final,2021,2025-01,final,2022
+HCES,Apparent intake (based on household consumption and expenditure surveys),2024-02-19,minor revision,2024-02-01 / 2024-02-19,final,,2025-01,final,
+FDIQ,Intake (based on individual quantitative dietary surveys),2024-02-01,,2024-02-01,final,,2025-01,final,
+MDDW,"Diversity (MDD-W, based on individual qualitative dietary surveys)",2024-02-01,,2024-02-01,final,,2025-01,final,
+RL,Land Use,2024-08-19,minor revision,2024-07-04 / 2024-08-19,final,2022,2025-06,final,2023
+LC,Land Cover,2024-07-04,,2024-07-04,final,2022,2025-06,final,2023
+RFN,Fertilizers by Nutrient,2024-07-17,,2024-07-17,final,2022,2025-06,final,2023
+RFB,Fertilizers by Product,2024-07-17,,2024-07-17,final,2022,2025-06,final,2023
+RFM,Detailed trade matrix (fertilizers),2024-07-17,,2024-07-17,final,2022,2025-06,final,2023
+EMN,Livestock Manure,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+RP,Pesticides Use,2024-09-26,minor revision,2024-07-16 / 2024-09-26,final,2022,2025-06,final,2023
+RT,Pesticides Trade,2024-09-23,minor revision,2024-07-16 / 2024-09-23,final,2022,2025-06,final,2023
+ESB,Cropland Nutrient Balance,2023-12-13,,2023-12-13,final,2021,2024-11,final,2022
+EK,Livestock Patterns,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+BE,Bioenergy,2024-08-28,minor revision,2024-06-17 / 2024-08-28,final,2022,2025-06,final,2023
+ET,Temperature change on land,2024-03-25,,2024-03-25,final,2023,2025-03,final,2024
+OA,Annual population,2022-11-10,,2022-11-10,preliminary,2021,,final,2022
+OEA,Employment Indicators: Agriculture and agrifood systems,2024-11-14,minor revision,2024-10-24 / 2024-11-14,final,2023,2025-04,final,2024
+OER,Employment Indicators: Rural,2024-10-24,,2024-10-24,final,2023,2025-04,final,2024
+IG,Government Expenditure,2024-02-06,,2024-02-06,final,2022,2024-12,final,2023
+IC,Credit to Agriculture,2023-12-21,,2023-12-21,final,2022,2024-11,final,2023
+EA,Development Flows to Agriculture,2023-11-10,minor revision,2023-07-12 / 2023-11-10,final,2021,2024-06,final,2022
+FDI,Foreign Direct Investment (FDI),2023-12-27,,2023-12-27,final,2022,2024-11,final,2023
+CISP,Country Investment Statistics Profile,2024-06-26,,2024-06-26,preliminary,2023,2024-10,preliminary,2023
+MK,Macro Indicators,2024-06-12,,2024-06-12,preliminary,2023,2024-10,final,2023
+CS,Capital Stock,2023-12-22,,2023-12-22,final,2022,2024-11,final,2023
+GFDI,Value shares by industry and primary factors,2022-11-28,,2022-11-28,final,2015,2023-06,final,
+GT,Emissions totals,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+EM,Emissions indicators,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+EI,Emissions intensities,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+GCE,Emissions from Crops,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+GLE,Emissions from Livestock,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+GN,Emissions from Energy use in agriculture,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+GF,Emissions from Forests,2024-11-14,,2024-11-14,final,2023,2025-10,final,2024
+GI,Emissions from Fires,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+GV,Emissions from Drained organic soils,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+GPP,Emissions from pre and post agricultural production,2024-11-14,,2024-11-14,final,2022,2025-10,final,2023
+FO,Forestry Production and Trade,2023-12-21,,2023-12-21,final,2022,2024-12,final,2023
+SDGB,SDG Indicators,2024-09-18,,2024-09-18,final,2024,,final,2024
+WCAD,Structural data from agricultural censuses,2024-05-23,minor revision,2024-03-21 / 2024-05-23,final,2020,2025-02,final,2020
+FT,Forestry Trade Flows,2022-05-27,minor revision,2019-06-19 / 2022-05-27,final,2017,,,
+HS,"Indicators from Household Surveys (gender, area, socioeconomics)",2014-07-31,,2014-07-31,final,2014,,,
+AF,ASTI-Researchers,2019-11-11,,2019-11-11,final,2016,,preliminary,2017
+AE,ASTI-Expenditures,2019-11-11,,2019-11-11,final,2016,,preliminary,2017
+FA,Food Aid Shipments (WFP),2016-12-22,,2016-12-22,preliminary,2016,,,
+RM,Machinery,2021-12-03,minor revision,2011-12-22 / 2021-12-03,final,2009,,,
+RY,Machinery Archive,2021-12-03,minor revision,2006-12-31 / 2021-12-03,final,2005,,,
+RA,Fertilizers archive,2020-09-08,minor revision,2013-12-31 / 2020-09-08,final,2002,,,
+PA,Producer Prices (old series),1991-12-31,,1991-12-31,final,1990,,,
