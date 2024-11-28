@@ -1,6 +1,5 @@
 # ignore all pptx files in all directories
 *.pptx
-/05_pandas/07a_missing_values.ipynb
-/05_pandas/07b_impute_missing_values.ipynb
+
 
 
