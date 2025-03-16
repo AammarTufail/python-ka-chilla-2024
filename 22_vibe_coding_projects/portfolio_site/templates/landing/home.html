@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<div class="jumbotron">
+    <h1 class="display-4">Welcome to My Data Science Portfolio!</h1>
+    <p class="lead">I am a Data Scientist specializing in industrial applications. Explore my projects below.</p>
+    <hr class="my-4">
+    <p>Click below to view my projects from GitHub.</p>
+    <a class="btn btn-primary btn-lg" href="{% url 'project_list' %}" role="button">View Projects</a>
+</div>
+{% endblock %}

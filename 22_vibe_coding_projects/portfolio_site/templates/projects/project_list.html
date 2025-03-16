@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block title %}Projects{% endblock %}
+{% block content %}
+<h2>My GitHub Projects</h2>
+{% if repos %}
+<ul class="list-group">
+    {% for repo in repos %}
+    <li class="list-group-item">
+        <h4>
+            <a href="{{ repo.html_url }}" target="_blank">{{ repo.name }}</a>
+        </h4>
+        {% if repo.image_url %}
+        <img src="{{ repo.image_url }}" alt="{{ repo.name }}" class="img-fluid" style="max-width: 300px;">
+        {% endif %}
+        <p>{{ repo.description|default:"No description provided." }}</p>
+    </li>
+    {% endfor %}
+</ul>
+{% else %}
+<p>No repositories found or an error occurred while fetching data.</p>
+{% endif %}
+{% endblock %}
